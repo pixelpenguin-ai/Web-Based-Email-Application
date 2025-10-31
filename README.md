@@ -1,15 +1,15 @@
-# Web-Based Email Application
+MailFlow – Smart Flask Email Application
 #### Video Demo:  <https://youtu.be/iYyATaCtZg8>
 ####
 **Project Description:**
 
-The **Email Management System** is a comprehensive web-based application designed to streamline email communication and simplify email management for users. It provides a robust and user-friendly platform for sending, receiving, and organizing emails, making it an ideal solution for personal and small-scale organizational email needs.
+The **Email Management System** is a comprehensive web-based application designed to streamline email communication and simplify email management for users. It provides a robust and user-friendly platform for sending, receiving, and organising emails, making it an ideal solution for personal and small-scale organisational email needs.
 
 **Key Features:**
 
-1. **User Authentication:** The system offers secure user registration and login functionality. User passwords are hashed for enhanced security, and users can recover their passwords if forgotten, ensuring a smooth user experience.
+1. **User Authentication:** The system offers secure user registration and login functionality. User passwords are hashed for enhanced security, and users can recover their passwords if they are forgotten, ensuring a seamless user experience.
 
-2. **Inbox:** The heart of the system is the inbox, where users can access all their received emails in one central location. This feature displays essential email details such as sender, subject, and timestamp, allowing users to quickly identify and prioritize their messages.
+2. **Inbox:** The heart of the system is the inbox, where users can access all their received emails in one central location. This feature displays essential email details such as sender, subject, and timestamp, allowing users to identify and prioritize their messages quickly.
 
 3. **Compose Email:** Users can compose and send emails to other registered users within the system. The intuitive interface allows users to specify recipients, subject lines, and compose rich-text email messages with ease.
 
@@ -33,9 +33,9 @@ The primary goal of the Email Management System is to provide users with an effi
 
 The Email Management System caters to various use cases, including:
 
-- **Personal Use:** Individuals can use the system to manage their personal emails and keep their inbox organized.
+- **Personal Use:** Individuals can use the system to manage their personal emails and keep their inbox organised.
 
-- **Small Organizations:** Small businesses or teams can utilize the system for internal communication, ensuring that they have control over their email infrastructure.
+- **Small Organisations:** Small businesses or teams can utilise the system for internal communication, ensuring that they have control over their email infrastructure.
 
 - **Educational Purposes:** This project can serve as a valuable educational resource for individuals learning web development, offering hands-on experience with web application development.
 
@@ -49,4 +49,4 @@ The Email Management System caters to various use cases, including:
 
 **Conclusion:**
 
-The Email Management System project represents a practical and educational endeavor, demonstrating the development of a web-based email management solution. It empowers users to take control of their email communication while showcasing fundamental web development principles. This project contributes to enhancing the efficiency of email management and serves as an excellent learning resource for web developers and aspiring programmers.
+The Email Management System project represents a practical and educational endeavour, demonstrating the development of a web-based email management solution. It empowers users to take control of their email communication while showcasing fundamental web development principles. This project contributes to enhancing the efficiency of email management and serves as an excellent learning resource for web developers and aspiring programmers.
